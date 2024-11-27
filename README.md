@@ -78,8 +78,7 @@ Ensure you have the following installed:
 ---
 
 ## 📊 Screenshots  
-
-### User Interface  
+  
 ![screenshot](https://github.com/user-attachments/assets/91f04578-552a-41c3-b315-45a3ade74e3a)
 
 ---
